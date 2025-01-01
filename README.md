@@ -21,3 +21,5 @@ The challenge "A Very Big Sum" involves calculating the sum of the elements in a
 
 ## Output Format
 
+- A single integer representing the sum of the array's elements.
+
