@@ -11,3 +11,5 @@ The challenge "A Very Big Sum" involves calculating the sum of the elements in a
 - int ar[n]: An array of integers.
 
 ### Return Type:
+
+- long: The sum of all elements in the array.
