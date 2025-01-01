@@ -7,4 +7,7 @@ The challenge "A Very Big Sum" involves calculating the sum of the elements in a
 ### Function Name: aVeryBigSum
 
 ### Parameters:
+
 - int ar[n]: An array of integers.
+
+### Return Type:
