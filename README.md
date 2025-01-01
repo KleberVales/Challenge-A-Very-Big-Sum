@@ -15,3 +15,7 @@ The challenge "A Very Big Sum" involves calculating the sum of the elements in a
 - long: The sum of all elements in the array.
 
 ## Input Format
+
+1. An integer n representing the number of elements in the array.
+2. A line of n space-separated integers.
+
