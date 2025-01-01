@@ -33,4 +33,9 @@ The challenge "A Very Big Sum" involves calculating the sum of the elements in a
 1000000001 1000000002 1000000003 1000000004 1000000005
 
 ```
+## Sample Output
+```
+5000000015
+
+```
 
