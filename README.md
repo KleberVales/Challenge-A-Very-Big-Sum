@@ -5,3 +5,5 @@ The challenge "A Very Big Sum" involves calculating the sum of the elements in a
 ## Function Description
 
 ### Function Name: aVeryBigSum
+
+### Parameters:
