@@ -27,3 +27,5 @@ The challenge "A Very Big Sum" involves calculating the sum of the elements in a
 
 - The integers in the array can be large, potentially exceeding the 32-bit integer limit.
 
+## Sample Input
+
